@@ -1,0 +1,9 @@
+Sign:
+  line1: '&0&m-------------'
+  line2: '&4&lFree'
+  line3: '&8'
+  line4: '&8'
+Inventory:
+  Name: '&4&lFreeSign'
+  Size: 9
+  ItemPosition: 4
